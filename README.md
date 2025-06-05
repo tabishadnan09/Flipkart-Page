@@ -1,6 +1,6 @@
-# 🛒 Flipkart Clone Webpage
+# 🛒 Flipkart Webpage
 
-This is a **Flipkart homepage clone** created using **HTML** and **CSS**. It replicates the basic layout and design of Flipkart's official site including header, navigation bar, product sections, and footer.
+This is a **Flipkart Basic Page** created using **HTML** and **CSS**. It replicates the basic layout and design of Flipkart's official site including header, navigation bar, product sections, and footer.
 
 ## 🛠️ Built With
 
